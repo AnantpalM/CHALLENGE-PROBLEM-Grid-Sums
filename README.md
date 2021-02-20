@@ -1,0 +1,2 @@
+# CHALLENGE-PROBLEM-Grid-Sums
+A program that determines a list of lists that includes the z by z grid of numbers and also T lists of x and y pairs, the z by z grid of numbers in an array, the test cases in an array, as well as a list for the sum of the numbers in row x plus the sum of the numbers in column y using data files containing inputs and four functions called readData(filename),getZGrid(dataList),getTestCases(dataList),and getSums(grid, testCases).
